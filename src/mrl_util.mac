@@ -1,0 +1,12 @@
+		.nlist
+
+
+* Global Symbol ------------------------------- *
+
+		.global	_ReadLineSaveFnckey
+		.global	_ReadLineRestoreFnckey
+
+
+* End of File --------------------------------- *
+
+		.list
